@@ -1,0 +1,2 @@
+把VOC2007数据集放在这 
+包括Annotations ImageSets 和 IPEGImages
